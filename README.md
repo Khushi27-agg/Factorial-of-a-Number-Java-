@@ -30,7 +30,7 @@ Console output
 
 Language: Java
 
-▶ How to Run
+# How to Run
 
 Save the file as Main.java
 
